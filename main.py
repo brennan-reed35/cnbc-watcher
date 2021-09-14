@@ -15,7 +15,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from preprocess import process_image_for_ocr
+#from preprocess import process_image_for_ocr
 import cv2
 
 
@@ -90,14 +90,29 @@ if __name__ == '__main__':
         cv2.imwrite('./current_screen/processed.jpg', img, [int(cv2.IMWRITE_JPEG_QUALITY), 100])
         print('* Preprocessing complete')
 
-        text = pytesseract.image_to_string(img)
+        cropped = Image.open('./current_screen/processed.jpg')
+        # Size of the image in pixels (size of original image)
+        width, height = cropped.size
+
+        # Setting the points for cropped image
+        left = 300
+        top = 620
+        right = 1140
+        bottom = 740
+
+        # Cropped image of above dimension
+        # (It will not change original image)
+        cropped = cropped.crop((left, top, right, bottom))
+        cropped.save('./current_screen/processed.jpg')
+        processed_cropped = cv2.imread('./current_screen/processed.jpg')
+        text = pytesseract.image_to_string(processed_cropped)
         print(text)
         now = datetime.datetime.now()
         dt_string = now.strftime("%m/%d/%Y %H:%M:%S")
         print(dt_string)
 
         count += 1
-        if count > 1:
-            break
+        #if count > 0:
+        #    break
     print('* Closing driver')
     driver.close()
