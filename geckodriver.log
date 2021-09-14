@@ -1,0 +1,209 @@
+1631214576769	geckodriver	INFO	Listening on 127.0.0.1:64815
+1631214579787	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Brennan\\AppData\\Local\\Temp\\rust_mozprofile84eIN5"
+1631214580489	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brennan\\AppData\\Local\\Temp\\rust_mozprofile84eIN5\\search.json.mozlz4", (void 0)))
+1631214582110	Marionette	INFO	Listening on port 64833
+1631214582491	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnbc.com/live-tv/, line 30: unreachable code after return statement
+JavaScript warning: https://www.cnbc.com/live-tv/ line 324 > injectedScript, line 30: unreachable code after return statement
+JavaScript error: https://gum.criteo.com/sync?c=30&r=2&j=cr_handle_data_a, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://gum.criteo.com/sync?c=30&r=2&j=cr_handle_data_a, line 1: SecurityError: The operation is insecure.
+1631214596597	Marionette	INFO	Stopped listening on port 64833
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631215411719	geckodriver	INFO	Listening on 127.0.0.1:54028
+1631215414755	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Brennan\\AppData\\Local\\Temp\\rust_mozprofileuMWXEm"
+1631215704900	geckodriver	INFO	Listening on 127.0.0.1:56335
+1631215707947	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Brennan\\AppData\\Local\\Temp\\rust_mozprofileaKa4P1"
+1631215708173	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brennan\\AppData\\Local\\Temp\\rust_mozprofileaKa4P1\\search.json.mozlz4", (void 0)))
+1631215709766	Marionette	INFO	Listening on port 56346
+1631215710005	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnbc.com/live-tv/, line 30: unreachable code after return statement
+JavaScript warning: https://www.cnbc.com/live-tv/ line 324 > injectedScript, line 30: unreachable code after return statement
+JavaScript warning: https://entitlement.auth.adobe.com/entitlement/v4/3.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://gum.criteo.com/sync?c=30&r=2&j=cr_handle_data_a, line 1: SecurityError: The operation is insecure.
+JavaScript warning: https://login.xfinity.com/static/js/comcast-common.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://gum.criteo.com/sync?c=30&r=2&j=cr_handle_data_a, line 1: SecurityError: The operation is insecure.
+JavaScript warning: https://login.xfinity.com/static/js/comcast-common.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://gum.criteo.com/sync?c=30&r=2&j=cr_handle_data_a, line 1: SecurityError: The operation is insecure.
+JavaScript warning: https://login.xfinity.com/static/js/comcast-common.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.xfinity.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.xfinity.com"
+1631215791279	Marionette	INFO	Stopped listening on port 56346
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Settings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brennan\\AppData\\Local\\Temp\\rust_mozprofilereZJR5\\search.json.mozlz4", (void 0)))
+1631215780029	Marionette	INFO	Listening on port 56637
+1631215780370	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnbc.com/live-tv/, line 30: unreachable code after return statement
+JavaScript warning: https://entitlement.auth.adobe.com/entitlement/v4/3.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cnbc.com/live-tv/ line 324 > injectedScript, line 30: unreachable code after return statement
+JavaScript error: https://gum.criteo.com/sync?c=30&r=2&j=cr_handle_data_a, line 1: SecurityError: The operation is insecure.
+JavaScript warning: https://login.xfinity.com/static/js/comcast-common.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1631215789588	Marionette	INFO	Stopped listening on port 56637
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+[Parent 19640, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631215816389	geckodriver	INFO	Listening on 127.0.0.1:56891
+1631215819406	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Brennan\\AppData\\Local\\Temp\\rust_mozprofile7wh6Qv"
+1631215819638	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brennan\\AppData\\Local\\Temp\\rust_mozprofile7wh6Qv\\search.json.mozlz4", (void 0)))
+1631215821387	Marionette	INFO	Listening on port 56902
+1631215821463	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnbc.com/live-tv/, line 30: unreachable code after return statement
+JavaScript warning: https://entitlement.auth.adobe.com/entitlement/v4/3.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cnbc.com/live-tv/ line 324 > injectedScript, line 30: unreachable code after return statement
+JavaScript error: https://gum.criteo.com/sync?c=30&r=2&j=cr_handle_data_a, line 1: SecurityError: The operation is insecure.
+JavaScript warning: https://login.xfinity.com/static/js/comcast-common.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.xfinity.com"
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+JavaScript error: https://gum.criteo.com/sync?c=30&r=2&j=cr_handle_data_a, line 1: SecurityError: The operation is insecure.
+JavaScript warning: https://login.xfinity.com/static/js/comcast-common.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://gum.criteo.com/sync?c=30&r=2&j=cr_handle_data_a, line 1: SecurityError: The operation is insecure.
+JavaScript warning: https://login.xfinity.com/static/js/comcast-common.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1631216406916	Marionette	INFO	Stopped listening on port 56902
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+RER.
+1631215924856	Marionette	INFO	Stopped listening on port 54571
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+1631493053260	geckodriver	INFO	Listening on 127.0.0.1:56945
+1631493056276	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Brennan\\AppData\\Local\\Temp\\rust_mozprofile18Qv9T"
+1631493057312	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brennan\\AppData\\Local\\Temp\\rust_mozprofile18Qv9T\\search.json.mozlz4", (void 0)))
+1631493059728	Marionette	INFO	Listening on port 51023
+1631493060017	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cnbc.com/live-tv/, line 30: unreachable code after return statement
+JavaScript warning: https://www.cnbc.com/live-tv/ line 324 > injectedScript, line 30: unreachable code after return statement
+1631493063015	Marionette	INFO	Stopped listening on port 51023
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1631493073720	geckodriver	INFO	Listening on 127.0.0.1:51890
+1631493076755	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Brennan\\AppData\\Local\\Temp\\rust_mozprofileMVa90d"
+1631493077321	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brennan\\AppData\\Local\\Temp\\rust_mozprofileMVa90d\\search.json.mozlz4", (void 0)))
+1631493079067	Marionette	INFO	Listening on port 54498
+1631493079431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.vidoomy.com/123newstv_12144.js line 1 > eval, line 1: TypeError: top.document.body is null
+[Child 13076, MediaDecoderStateMachine #1] WARNING: 22713bd8f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1631493097545	Marionette	INFO	Stopped listening on port 54498
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631493912124	geckodriver	INFO	Listening on 127.0.0.1:54758
+1631493915153	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Brennan\\AppData\\Local\\Temp\\rust_mozprofileBPCeiJ"
+1631493915538	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brennan\\AppData\\Local\\Temp\\rust_mozprofileBPCeiJ\\search.json.mozlz4", (void 0)))
+1631493917451	Marionette	INFO	Listening on port 64999
+1631493917832	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.vidoomy.com/123newstv_12144.js line 1 > eval, line 1: TypeError: top.document.body is null
+[Child 14536, MediaDecoderStateMachine #1] WARNING: 1cc881243c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14536, MediaDecoderStateMachine #1] WARNING: 1cc898b9ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: resource://gre/actors/AudioPlaybackParent.jsm, line 24: TypeError: browser is null
+1631493969668	Marionette	INFO	Stopped listening on port 64999
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631495983023	geckodriver	INFO	Listening on 127.0.0.1:63678
+1631495986061	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Brennan\\AppData\\Local\\Temp\\rust_mozprofileL9YThc"
+1631495986468	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brennan\\AppData\\Local\\Temp\\rust_mozprofileL9YThc\\search.json.mozlz4", (void 0)))
+1631495988316	Marionette	INFO	Listening on port 55492
+1631495988745	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.vidoomy.com/123newstv_12144.js line 1 > eval, line 1: TypeError: top.document.body is null
+[Child 5052, MediaDecoderStateMachine #1] WARNING: 247c5905f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://123news.tv/wp-content/cache/autoptimize/css/autoptimize_413ce8a54882e6c997ce2cdca7cdff62.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css without a browsingContextID set
+1631496006467	Marionette	INFO	Stopped listening on port 55492
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631496031277	geckodriver	INFO	Listening on 127.0.0.1:58704
+1631496034298	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Brennan\\AppData\\Local\\Temp\\rust_mozprofilekiZr4D"
+1631496034699	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brennan\\AppData\\Local\\Temp\\rust_mozprofilekiZr4D\\search.json.mozlz4", (void 0)))
+1631496036540	Marionette	INFO	Listening on port 55406
+1631496036995	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.vidoomy.com/123newstv_12144.js line 1 > eval, line 1: TypeError: top.document.body is null
+[Child 10516, MediaDecoderStateMachine #1] WARNING: 25aa1b9b200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 10516, MediaDecoderStateMachine #1] WARNING: 25aa2b5a740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: resource://gre/actors/AudioPlaybackParent.jsm, line 24: TypeError: browser is null
+1631496053674	Marionette	INFO	Stopped listening on port 55406
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631496241148	geckodriver	INFO	Listening on 127.0.0.1:64994
+1631496244174	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Brennan\\AppData\\Local\\Temp\\rust_mozprofilevq6hdy"
+1631496244572	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brennan\\AppData\\Local\\Temp\\rust_mozprofilevq6hdy\\search.json.mozlz4", (void 0)))
+1631496246365	Marionette	INFO	Listening on port 60601
+1631496246870	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.vidoomy.com/123newstv_12144.js line 1 > eval, line 1: TypeError: top.document.body is null
+[Child 3372, MediaDecoderStateMachine #1] WARNING: 1d70a7962e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 3372, MediaDecoderStateMachine #1] WARNING: 1d70f84b040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1631496261850	Marionette	INFO	Stopped listening on port 60601
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631496285958	geckodriver	INFO	Listening on 127.0.0.1:64599
+1631496288981	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Brennan\\AppData\\Local\\Temp\\rust_mozprofilelHM9Pr"
+1631496289323	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brennan\\AppData\\Local\\Temp\\rust_mozprofilelHM9Pr\\search.json.mozlz4", (void 0)))
+1631496291087	Marionette	INFO	Listening on port 56774
+1631496291139	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.vidoomy.com/123newstv_12144.js line 1 > eval, line 1: TypeError: top.document.body is null
+1631496291852	Marionette	INFO	Stopped listening on port 56774
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1631496312853	geckodriver	INFO	Listening on 127.0.0.1:59977
+1631496315878	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "C:\\Users\\Brennan\\AppData\\Local\\Temp\\rust_mozprofilegcBavr"
+1631496316196	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brennan\\AppData\\Local\\Temp\\rust_mozprofilegcBavr\\search.json.mozlz4", (void 0)))
+1631496317639	Marionette	INFO	Listening on port 65160
+1631496317940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.vidoomy.com/123newstv_12144.js line 1 > eval, line 1: TypeError: top.document.body is null
+[Child 10724, MediaDecoderStateMachine #1] WARNING: 18edbd3c740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1631496329014	Marionette	INFO	Stopped listening on port 65160
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
